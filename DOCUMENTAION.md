@@ -1,4 +1,4 @@
-If you have added a file using git add .
+If you have added a file using #git add .
 And u have to revert the file back then simply use the git command git reset HEAD nameofthefile
 If we have to completely remove then use 
 git --checkout nameofthefile
